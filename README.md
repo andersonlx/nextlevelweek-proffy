@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="1200px" src="https://github.com/andersonlx/nextlevelweek-proffy/blob/master/github_assets/logo.png">
+    <img alt="Logo" title="#logo" width="280px" src="https://github.com/andersonlx/nextlevelweek-proffy/blob/master/github_assets/logo.png">
     <br>
 </h3>
 <p align="center"> 🚀 <strong>Proffy</strong> Project developed during the 2nd edition of Rocketseat's NLW.
