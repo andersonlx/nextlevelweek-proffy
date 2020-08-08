@@ -40,6 +40,13 @@ The project was developed using the following technologies
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
 - [Styled Components](https://styled-components.com/)
+- [Expo](https://expo.io/)
+
+### Web Screenshot
+<div style="display: flex; flex-direction: 'row'; align-items: 'center';">
+       <img src="https://github.com/andersonlx/nextlevelweek-proffy/blob/master/github_assets/web1.png" width="400px">
+       <img src="https://github.com/andersonlx/nextlevelweek-proffy/blob/master/github_assets/web2.png" width="400px">
+</div>
 
 ## :fire: How to run
 
